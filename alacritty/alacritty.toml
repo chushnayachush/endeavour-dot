@@ -1,0 +1,5 @@
+# $HOME/.config/alacritty/alacritty.toml
+[font]
+size = 17.0
+normal = { family = "Courier Prime Code", style = "Regular" }
+
